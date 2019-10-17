@@ -7,3 +7,10 @@
 * 简单
 * 没技术含量
 * 都是抄的
+
+请您欣赏项目截图，绝对不是F12改的，绝对没有审查元素改，请您放心！
+![Image text](https://raw.githubusercontent.com/shaoshanhuan/taotao_erp/master/images/video_2019-10-17_172412%5B00_00_02--00_00_22%5D.gif)
+
+![Image text](https://raw.githubusercontent.com/shaoshanhuan/taotao_erp/master/images/video_2019-10-17_172412%5B00_00_02--00_00_22%5D.gif)
+
+![Image text](https://raw.githubusercontent.com/shaoshanhuan/taotao_erp/master/images/video_2019-10-17_172412%5B00_00_02--00_00_22%5D.gif)
